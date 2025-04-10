@@ -4,7 +4,7 @@
 
 🧑‍🦳 Site altera as imagens de acordo com a idade fornecida.
 
-![](https://github.com/user-attachments/assets/abd6b709-4660-4eed-8b32-393902cbb4b)
+![Image](https://github.com/user-attachments/assets/3cbb7f94-0150-476f-a8e0-7d36a5b06407)
 
 <p align="center">
   <a href="#page_with_curl-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
